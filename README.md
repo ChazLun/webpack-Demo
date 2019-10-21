@@ -6,3 +6,7 @@
 ```
 npm run build
 ```
+
+### 记录文档
+
+[传送门](./nodeRecord.md)
