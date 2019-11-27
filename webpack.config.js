@@ -21,6 +21,7 @@ module.exports = {
     contentBase: './dist',
     hot: true
   },
+  mode: 'production',
   plugins: [
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
